@@ -6,7 +6,7 @@ Check in terminal results for mokutil --sb-state as Secure Boot needs to be disa
 
 sudo apt install git build-essential dkms
 
-https://github.com/jeremyb31/mt7601u-4.15.git
+git clone https://github.com/jeremyb31/mt7601u-4.15.git
 
 sudo dkms add ./mt7601u-4.15
 
